@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimplecSharpApp": {
+      "commandName": "Project",
+      "commandLineArgs": "hey 123 \r\n"
+    }
+  }
+}

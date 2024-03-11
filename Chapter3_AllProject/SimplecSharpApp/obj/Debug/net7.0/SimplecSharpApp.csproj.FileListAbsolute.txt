@@ -1,0 +1,14 @@
+C:\Users\Legion\Desktop\Internship\Chapter3_AllProject\SimplecSharpApp\bin\Debug\net7.0\SimplecSharpApp.exe
+C:\Users\Legion\Desktop\Internship\Chapter3_AllProject\SimplecSharpApp\bin\Debug\net7.0\SimplecSharpApp.deps.json
+C:\Users\Legion\Desktop\Internship\Chapter3_AllProject\SimplecSharpApp\bin\Debug\net7.0\SimplecSharpApp.runtimeconfig.json
+C:\Users\Legion\Desktop\Internship\Chapter3_AllProject\SimplecSharpApp\bin\Debug\net7.0\SimplecSharpApp.dll
+C:\Users\Legion\Desktop\Internship\Chapter3_AllProject\SimplecSharpApp\bin\Debug\net7.0\SimplecSharpApp.pdb
+C:\Users\Legion\Desktop\Internship\Chapter3_AllProject\SimplecSharpApp\obj\Debug\net7.0\SimplecSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Desktop\Internship\Chapter3_AllProject\SimplecSharpApp\obj\Debug\net7.0\SimplecSharpApp.AssemblyInfoInputs.cache
+C:\Users\Legion\Desktop\Internship\Chapter3_AllProject\SimplecSharpApp\obj\Debug\net7.0\SimplecSharpApp.AssemblyInfo.cs
+C:\Users\Legion\Desktop\Internship\Chapter3_AllProject\SimplecSharpApp\obj\Debug\net7.0\SimplecSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\Internship\Chapter3_AllProject\SimplecSharpApp\obj\Debug\net7.0\SimplecSharpApp.dll
+C:\Users\Legion\Desktop\Internship\Chapter3_AllProject\SimplecSharpApp\obj\Debug\net7.0\refint\SimplecSharpApp.dll
+C:\Users\Legion\Desktop\Internship\Chapter3_AllProject\SimplecSharpApp\obj\Debug\net7.0\SimplecSharpApp.pdb
+C:\Users\Legion\Desktop\Internship\Chapter3_AllProject\SimplecSharpApp\obj\Debug\net7.0\SimplecSharpApp.genruntimeconfig.cache
+C:\Users\Legion\Desktop\Internship\Chapter3_AllProject\SimplecSharpApp\obj\Debug\net7.0\ref\SimplecSharpApp.dll
